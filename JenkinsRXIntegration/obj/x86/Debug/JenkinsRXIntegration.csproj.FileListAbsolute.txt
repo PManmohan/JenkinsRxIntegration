@@ -1,0 +1,11 @@
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\JenkinsRXIntegration.rxtst
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\JenkinsRXIntegration.exe.config
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\JenkinsRXIntegration.xml
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\JenkinsRXIntegration.exe
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\JenkinsRXIntegration.pdb
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\obj\x86\Debug\JenkinsRXIntegration.csproj.AssemblyReference.cache
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\obj\x86\Debug\JenkinsRXIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\obj\x86\Debug\JenkinsRXIntegration.csproj.CopyComplete
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\obj\x86\Debug\JenkinsRXIntegration.exe
+C:\Users\Mohan\Documents\Ranorex\RanorexStudio Projects\JenkinsRXIntegration\JenkinsRXIntegration\obj\x86\Debug\JenkinsRXIntegration.pdb

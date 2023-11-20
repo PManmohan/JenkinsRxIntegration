@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="2300ccd3-4dcb-4084-aa04-1a3f9133227b"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="JenkinsRXIntegration">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="1aa94345-42fd-43e2-bdec-d8b4a6280727"
+	name="JenkinsRXIntegrationRepository"
+	relativepath="JenkinsRXIntegrationRepository.rxrep">
+		<codegen
+		classname="JenkinsRXIntegrationRepository"
+		namespace="JenkinsRXIntegration">
+		</codegen>
+		<rootfolder
+		id="4a9e9dcf-7109-4f06-aa5e-a356a5aa5b6f"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

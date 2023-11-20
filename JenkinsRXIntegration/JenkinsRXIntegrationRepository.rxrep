@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="JenkinsRXIntegrationRepository"
+id="1aa94345-42fd-43e2-bdec-d8b4a6280727">
+  <codegen
+  classname="JenkinsRXIntegrationRepository"
+  namespace="JenkinsRXIntegration"/>
+  <rootfolder
+  name="Root"
+  id="4a9e9dcf-7109-4f06-aa5e-a356a5aa5b6f"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

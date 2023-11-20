@@ -1,0 +1,17 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Scripts\Hello.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="JenkinsRXIntegration.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Smoke.rxtst" />
+    <Element value="Scripts\Hello.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
